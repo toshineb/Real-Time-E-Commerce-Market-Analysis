@@ -5,6 +5,8 @@
 ---
 
 ## 📌 Project Overview
+**Dashboard** 
+   ![Dashboard](Screenshot%202025-09-19%20124649.png)
 
 This project simulates a **real-world data engineering and analytics solution** where raw e-commerce transactions are streamed, cleaned, enriched, aggregated, and then visualized for **market and customer analysis**.
 
